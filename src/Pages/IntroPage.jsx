@@ -8,7 +8,6 @@ import BathtubIcon from '@mui/icons-material/Bathtub';
 import LocalCarWashIcon from '@mui/icons-material/LocalCarWash';
 import CleaningServicesIcon from '@mui/icons-material/CleaningServices';
 import TaskAltIcon from '@mui/icons-material/TaskAlt';
-import Footer from '../components/Footer';
 
 const IntroPage = () => {
   return (
