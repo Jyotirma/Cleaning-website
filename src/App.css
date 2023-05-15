@@ -1,0 +1,36 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 8%;
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -8px;
+    /* position: sticky; */
+}
+
+
+.logo img{
+    height: 25%;
+    width: 15%;
+    object-fit: cover;
+}
+
+.contact{
+    display: flex;
+    flex-direction: row;
+    margin-right: 10px;
+}
+.icon_cont{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+}
+
+.icon_cont a{
+    color: #0d0d66;;
+    text-decoration: none;
+}
+
+.icon{
+    color: #0d0d66;
+}
